@@ -1,7 +1,7 @@
-[![Taha Web developer] <a>
+[![Taha Web developer]
     <img align="center" alt="coding" with="400" height="500" src="https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?w=740&t=1692096225~exp=1692096825~hmac=8b425171030a387637bda0db88e45e3a032d44128da2745ed9c9350b91ddf901" alt="Banner Image">
  
-</a>
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Taha</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
